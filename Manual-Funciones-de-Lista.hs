@@ -1,0 +1,16 @@
+listadelista= [['a', 'b'],[ 'c', 'd']]
+lista = [1,2,3,4]
+fLista_1=length lista
+fLista_2=head lista
+fLista_3=tail lista
+fLista_4=last lista
+fLista_5=init lista
+fLista_6=reverse lista
+fLista_7=take 2 lista
+fLista_8=drop 1 lista
+fLista_9=mínimum lista
+fLista_10=maximum lista
+fLista_11=sum lista
+fLista_12=product lista
+fLista_13=2`elem` lista
+fLista_14=5`elem` lista
